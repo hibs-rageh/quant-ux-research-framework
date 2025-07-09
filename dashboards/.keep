@@ -1,0 +1,41 @@
+# Dashboard Insight Summary – UX Research
+
+This summary outlines the dashboards used to visualize and present UX research findings to stakeholders.
+
+---
+
+## Purpose
+
+- Translate research data into actionable visuals
+- Support alignment across Product, Design, and Marketing
+- Speed up decision-making with accessible metrics
+
+---
+
+## Types of Dashboards
+
+### 1. Onboarding Funnel Dashboard
+**Use:** Visualize user drop-off across onboarding stages  
+**Filters:** Country, language, device type  
+**Metrics:** Conversion rate, bounce rate, average completion time
+
+---
+
+### 2. A/B Test Performance Dashboard
+**Use:** Compare test variant outcomes  
+**Metrics:** Click-through rate (CTR), completion rate, engagement  
+**Visuals:** Line charts, bar graphs, variant comparison
+
+---
+
+### 3. Survey Results Dashboard
+**Use:** Display quant results from surveys  
+**Charts:** NPS, satisfaction scales, theme frequency  
+**Notes:** Combines open-text summaries with visual coding
+
+---
+
+## Tools Used
+
+| Tool     | Purpose                        |
+|----------|---------
